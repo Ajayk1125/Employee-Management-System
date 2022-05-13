@@ -1,6 +1,6 @@
 Employee-Management-System is developed using java and MySQL database:
 
-BUILD OUTPUT DESCRIPTION
+BUILD OUTPUT DESCRIPTION (use NetBeans IDE)
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
